@@ -505,6 +505,448 @@ lab2_geneus/fast:
 	$(MAKE) -f lab2/CMakeFiles/lab2_geneus.dir/build.make lab2/CMakeFiles/lab2_geneus.dir/build
 .PHONY : lab2_geneus/fast
 
+#=============================================================================
+# Target rules for targets named lab3_gennodejs
+
+# Build rule for target.
+lab3_gennodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 lab3_gennodejs
+.PHONY : lab3_gennodejs
+
+# fast build rule for target.
+lab3_gennodejs/fast:
+	$(MAKE) -f lab3/CMakeFiles/lab3_gennodejs.dir/build.make lab3/CMakeFiles/lab3_gennodejs.dir/build
+.PHONY : lab3_gennodejs/fast
+
+#=============================================================================
+# Target rules for targets named lab3_generate_messages_nodejs
+
+# Build rule for target.
+lab3_generate_messages_nodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 lab3_generate_messages_nodejs
+.PHONY : lab3_generate_messages_nodejs
+
+# fast build rule for target.
+lab3_generate_messages_nodejs/fast:
+	$(MAKE) -f lab3/CMakeFiles/lab3_generate_messages_nodejs.dir/build.make lab3/CMakeFiles/lab3_generate_messages_nodejs.dir/build
+.PHONY : lab3_generate_messages_nodejs/fast
+
+#=============================================================================
+# Target rules for targets named lab3_genlisp
+
+# Build rule for target.
+lab3_genlisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 lab3_genlisp
+.PHONY : lab3_genlisp
+
+# fast build rule for target.
+lab3_genlisp/fast:
+	$(MAKE) -f lab3/CMakeFiles/lab3_genlisp.dir/build.make lab3/CMakeFiles/lab3_genlisp.dir/build
+.PHONY : lab3_genlisp/fast
+
+#=============================================================================
+# Target rules for targets named actionlib_msgs_generate_messages_cpp
+
+# Build rule for target.
+actionlib_msgs_generate_messages_cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 actionlib_msgs_generate_messages_cpp
+.PHONY : actionlib_msgs_generate_messages_cpp
+
+# fast build rule for target.
+actionlib_msgs_generate_messages_cpp/fast:
+	$(MAKE) -f lab3/CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/build.make lab3/CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/build
+.PHONY : actionlib_msgs_generate_messages_cpp/fast
+
+#=============================================================================
+# Target rules for targets named rosgraph_msgs_generate_messages_py
+
+# Build rule for target.
+rosgraph_msgs_generate_messages_py: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 rosgraph_msgs_generate_messages_py
+.PHONY : rosgraph_msgs_generate_messages_py
+
+# fast build rule for target.
+rosgraph_msgs_generate_messages_py/fast:
+	$(MAKE) -f lab3/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make lab3/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build
+.PHONY : rosgraph_msgs_generate_messages_py/fast
+
+#=============================================================================
+# Target rules for targets named roscpp_generate_messages_lisp
+
+# Build rule for target.
+roscpp_generate_messages_lisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 roscpp_generate_messages_lisp
+.PHONY : roscpp_generate_messages_lisp
+
+# fast build rule for target.
+roscpp_generate_messages_lisp/fast:
+	$(MAKE) -f lab3/CMakeFiles/roscpp_generate_messages_lisp.dir/build.make lab3/CMakeFiles/roscpp_generate_messages_lisp.dir/build
+.PHONY : roscpp_generate_messages_lisp/fast
+
+#=============================================================================
+# Target rules for targets named actionlib_msgs_generate_messages_eus
+
+# Build rule for target.
+actionlib_msgs_generate_messages_eus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 actionlib_msgs_generate_messages_eus
+.PHONY : actionlib_msgs_generate_messages_eus
+
+# fast build rule for target.
+actionlib_msgs_generate_messages_eus/fast:
+	$(MAKE) -f lab3/CMakeFiles/actionlib_msgs_generate_messages_eus.dir/build.make lab3/CMakeFiles/actionlib_msgs_generate_messages_eus.dir/build
+.PHONY : actionlib_msgs_generate_messages_eus/fast
+
+#=============================================================================
+# Target rules for targets named rosgraph_msgs_generate_messages_lisp
+
+# Build rule for target.
+rosgraph_msgs_generate_messages_lisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 rosgraph_msgs_generate_messages_lisp
+.PHONY : rosgraph_msgs_generate_messages_lisp
+
+# fast build rule for target.
+rosgraph_msgs_generate_messages_lisp/fast:
+	$(MAKE) -f lab3/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make lab3/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build
+.PHONY : rosgraph_msgs_generate_messages_lisp/fast
+
+#=============================================================================
+# Target rules for targets named actionlib_msgs_generate_messages_nodejs
+
+# Build rule for target.
+actionlib_msgs_generate_messages_nodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 actionlib_msgs_generate_messages_nodejs
+.PHONY : actionlib_msgs_generate_messages_nodejs
+
+# fast build rule for target.
+actionlib_msgs_generate_messages_nodejs/fast:
+	$(MAKE) -f lab3/CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/build.make lab3/CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/build
+.PHONY : actionlib_msgs_generate_messages_nodejs/fast
+
+#=============================================================================
+# Target rules for targets named _lab3_generate_messages_check_deps_AddTwoInts
+
+# Build rule for target.
+_lab3_generate_messages_check_deps_AddTwoInts: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _lab3_generate_messages_check_deps_AddTwoInts
+.PHONY : _lab3_generate_messages_check_deps_AddTwoInts
+
+# fast build rule for target.
+_lab3_generate_messages_check_deps_AddTwoInts/fast:
+	$(MAKE) -f lab3/CMakeFiles/_lab3_generate_messages_check_deps_AddTwoInts.dir/build.make lab3/CMakeFiles/_lab3_generate_messages_check_deps_AddTwoInts.dir/build
+.PHONY : _lab3_generate_messages_check_deps_AddTwoInts/fast
+
+#=============================================================================
+# Target rules for targets named lab3_generate_messages_lisp
+
+# Build rule for target.
+lab3_generate_messages_lisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 lab3_generate_messages_lisp
+.PHONY : lab3_generate_messages_lisp
+
+# fast build rule for target.
+lab3_generate_messages_lisp/fast:
+	$(MAKE) -f lab3/CMakeFiles/lab3_generate_messages_lisp.dir/build.make lab3/CMakeFiles/lab3_generate_messages_lisp.dir/build
+.PHONY : lab3_generate_messages_lisp/fast
+
+#=============================================================================
+# Target rules for targets named rosgraph_msgs_generate_messages_eus
+
+# Build rule for target.
+rosgraph_msgs_generate_messages_eus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 rosgraph_msgs_generate_messages_eus
+.PHONY : rosgraph_msgs_generate_messages_eus
+
+# fast build rule for target.
+rosgraph_msgs_generate_messages_eus/fast:
+	$(MAKE) -f lab3/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build.make lab3/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build
+.PHONY : rosgraph_msgs_generate_messages_eus/fast
+
+#=============================================================================
+# Target rules for targets named lab3_generate_messages_py
+
+# Build rule for target.
+lab3_generate_messages_py: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 lab3_generate_messages_py
+.PHONY : lab3_generate_messages_py
+
+# fast build rule for target.
+lab3_generate_messages_py/fast:
+	$(MAKE) -f lab3/CMakeFiles/lab3_generate_messages_py.dir/build.make lab3/CMakeFiles/lab3_generate_messages_py.dir/build
+.PHONY : lab3_generate_messages_py/fast
+
+#=============================================================================
+# Target rules for targets named lab3_generate_messages_cpp
+
+# Build rule for target.
+lab3_generate_messages_cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 lab3_generate_messages_cpp
+.PHONY : lab3_generate_messages_cpp
+
+# fast build rule for target.
+lab3_generate_messages_cpp/fast:
+	$(MAKE) -f lab3/CMakeFiles/lab3_generate_messages_cpp.dir/build.make lab3/CMakeFiles/lab3_generate_messages_cpp.dir/build
+.PHONY : lab3_generate_messages_cpp/fast
+
+#=============================================================================
+# Target rules for targets named roscpp_generate_messages_nodejs
+
+# Build rule for target.
+roscpp_generate_messages_nodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 roscpp_generate_messages_nodejs
+.PHONY : roscpp_generate_messages_nodejs
+
+# fast build rule for target.
+roscpp_generate_messages_nodejs/fast:
+	$(MAKE) -f lab3/CMakeFiles/roscpp_generate_messages_nodejs.dir/build.make lab3/CMakeFiles/roscpp_generate_messages_nodejs.dir/build
+.PHONY : roscpp_generate_messages_nodejs/fast
+
+#=============================================================================
+# Target rules for targets named _lab3_generate_messages_check_deps_CounterAction
+
+# Build rule for target.
+_lab3_generate_messages_check_deps_CounterAction: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _lab3_generate_messages_check_deps_CounterAction
+.PHONY : _lab3_generate_messages_check_deps_CounterAction
+
+# fast build rule for target.
+_lab3_generate_messages_check_deps_CounterAction/fast:
+	$(MAKE) -f lab3/CMakeFiles/_lab3_generate_messages_check_deps_CounterAction.dir/build.make lab3/CMakeFiles/_lab3_generate_messages_check_deps_CounterAction.dir/build
+.PHONY : _lab3_generate_messages_check_deps_CounterAction/fast
+
+#=============================================================================
+# Target rules for targets named _lab3_generate_messages_check_deps_CounterResult
+
+# Build rule for target.
+_lab3_generate_messages_check_deps_CounterResult: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _lab3_generate_messages_check_deps_CounterResult
+.PHONY : _lab3_generate_messages_check_deps_CounterResult
+
+# fast build rule for target.
+_lab3_generate_messages_check_deps_CounterResult/fast:
+	$(MAKE) -f lab3/CMakeFiles/_lab3_generate_messages_check_deps_CounterResult.dir/build.make lab3/CMakeFiles/_lab3_generate_messages_check_deps_CounterResult.dir/build
+.PHONY : _lab3_generate_messages_check_deps_CounterResult/fast
+
+#=============================================================================
+# Target rules for targets named actionlib_msgs_generate_messages_lisp
+
+# Build rule for target.
+actionlib_msgs_generate_messages_lisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 actionlib_msgs_generate_messages_lisp
+.PHONY : actionlib_msgs_generate_messages_lisp
+
+# fast build rule for target.
+actionlib_msgs_generate_messages_lisp/fast:
+	$(MAKE) -f lab3/CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/build.make lab3/CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/build
+.PHONY : actionlib_msgs_generate_messages_lisp/fast
+
+#=============================================================================
+# Target rules for targets named roscpp_generate_messages_py
+
+# Build rule for target.
+roscpp_generate_messages_py: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 roscpp_generate_messages_py
+.PHONY : roscpp_generate_messages_py
+
+# fast build rule for target.
+roscpp_generate_messages_py/fast:
+	$(MAKE) -f lab3/CMakeFiles/roscpp_generate_messages_py.dir/build.make lab3/CMakeFiles/roscpp_generate_messages_py.dir/build
+.PHONY : roscpp_generate_messages_py/fast
+
+#=============================================================================
+# Target rules for targets named lab3_genpy
+
+# Build rule for target.
+lab3_genpy: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 lab3_genpy
+.PHONY : lab3_genpy
+
+# fast build rule for target.
+lab3_genpy/fast:
+	$(MAKE) -f lab3/CMakeFiles/lab3_genpy.dir/build.make lab3/CMakeFiles/lab3_genpy.dir/build
+.PHONY : lab3_genpy/fast
+
+#=============================================================================
+# Target rules for targets named roscpp_generate_messages_cpp
+
+# Build rule for target.
+roscpp_generate_messages_cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 roscpp_generate_messages_cpp
+.PHONY : roscpp_generate_messages_cpp
+
+# fast build rule for target.
+roscpp_generate_messages_cpp/fast:
+	$(MAKE) -f lab3/CMakeFiles/roscpp_generate_messages_cpp.dir/build.make lab3/CMakeFiles/roscpp_generate_messages_cpp.dir/build
+.PHONY : roscpp_generate_messages_cpp/fast
+
+#=============================================================================
+# Target rules for targets named lab3_geneus
+
+# Build rule for target.
+lab3_geneus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 lab3_geneus
+.PHONY : lab3_geneus
+
+# fast build rule for target.
+lab3_geneus/fast:
+	$(MAKE) -f lab3/CMakeFiles/lab3_geneus.dir/build.make lab3/CMakeFiles/lab3_geneus.dir/build
+.PHONY : lab3_geneus/fast
+
+#=============================================================================
+# Target rules for targets named rosgraph_msgs_generate_messages_nodejs
+
+# Build rule for target.
+rosgraph_msgs_generate_messages_nodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 rosgraph_msgs_generate_messages_nodejs
+.PHONY : rosgraph_msgs_generate_messages_nodejs
+
+# fast build rule for target.
+rosgraph_msgs_generate_messages_nodejs/fast:
+	$(MAKE) -f lab3/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build.make lab3/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build
+.PHONY : rosgraph_msgs_generate_messages_nodejs/fast
+
+#=============================================================================
+# Target rules for targets named actionlib_msgs_generate_messages_py
+
+# Build rule for target.
+actionlib_msgs_generate_messages_py: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 actionlib_msgs_generate_messages_py
+.PHONY : actionlib_msgs_generate_messages_py
+
+# fast build rule for target.
+actionlib_msgs_generate_messages_py/fast:
+	$(MAKE) -f lab3/CMakeFiles/actionlib_msgs_generate_messages_py.dir/build.make lab3/CMakeFiles/actionlib_msgs_generate_messages_py.dir/build
+.PHONY : actionlib_msgs_generate_messages_py/fast
+
+#=============================================================================
+# Target rules for targets named lab3_generate_messages
+
+# Build rule for target.
+lab3_generate_messages: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 lab3_generate_messages
+.PHONY : lab3_generate_messages
+
+# fast build rule for target.
+lab3_generate_messages/fast:
+	$(MAKE) -f lab3/CMakeFiles/lab3_generate_messages.dir/build.make lab3/CMakeFiles/lab3_generate_messages.dir/build
+.PHONY : lab3_generate_messages/fast
+
+#=============================================================================
+# Target rules for targets named roscpp_generate_messages_eus
+
+# Build rule for target.
+roscpp_generate_messages_eus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 roscpp_generate_messages_eus
+.PHONY : roscpp_generate_messages_eus
+
+# fast build rule for target.
+roscpp_generate_messages_eus/fast:
+	$(MAKE) -f lab3/CMakeFiles/roscpp_generate_messages_eus.dir/build.make lab3/CMakeFiles/roscpp_generate_messages_eus.dir/build
+.PHONY : roscpp_generate_messages_eus/fast
+
+#=============================================================================
+# Target rules for targets named _lab3_generate_messages_check_deps_CounterActionGoal
+
+# Build rule for target.
+_lab3_generate_messages_check_deps_CounterActionGoal: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _lab3_generate_messages_check_deps_CounterActionGoal
+.PHONY : _lab3_generate_messages_check_deps_CounterActionGoal
+
+# fast build rule for target.
+_lab3_generate_messages_check_deps_CounterActionGoal/fast:
+	$(MAKE) -f lab3/CMakeFiles/_lab3_generate_messages_check_deps_CounterActionGoal.dir/build.make lab3/CMakeFiles/_lab3_generate_messages_check_deps_CounterActionGoal.dir/build
+.PHONY : _lab3_generate_messages_check_deps_CounterActionGoal/fast
+
+#=============================================================================
+# Target rules for targets named _lab3_generate_messages_check_deps_CounterActionResult
+
+# Build rule for target.
+_lab3_generate_messages_check_deps_CounterActionResult: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _lab3_generate_messages_check_deps_CounterActionResult
+.PHONY : _lab3_generate_messages_check_deps_CounterActionResult
+
+# fast build rule for target.
+_lab3_generate_messages_check_deps_CounterActionResult/fast:
+	$(MAKE) -f lab3/CMakeFiles/_lab3_generate_messages_check_deps_CounterActionResult.dir/build.make lab3/CMakeFiles/_lab3_generate_messages_check_deps_CounterActionResult.dir/build
+.PHONY : _lab3_generate_messages_check_deps_CounterActionResult/fast
+
+#=============================================================================
+# Target rules for targets named rosgraph_msgs_generate_messages_cpp
+
+# Build rule for target.
+rosgraph_msgs_generate_messages_cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 rosgraph_msgs_generate_messages_cpp
+.PHONY : rosgraph_msgs_generate_messages_cpp
+
+# fast build rule for target.
+rosgraph_msgs_generate_messages_cpp/fast:
+	$(MAKE) -f lab3/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make lab3/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build
+.PHONY : rosgraph_msgs_generate_messages_cpp/fast
+
+#=============================================================================
+# Target rules for targets named _lab3_generate_messages_check_deps_CounterActionFeedback
+
+# Build rule for target.
+_lab3_generate_messages_check_deps_CounterActionFeedback: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _lab3_generate_messages_check_deps_CounterActionFeedback
+.PHONY : _lab3_generate_messages_check_deps_CounterActionFeedback
+
+# fast build rule for target.
+_lab3_generate_messages_check_deps_CounterActionFeedback/fast:
+	$(MAKE) -f lab3/CMakeFiles/_lab3_generate_messages_check_deps_CounterActionFeedback.dir/build.make lab3/CMakeFiles/_lab3_generate_messages_check_deps_CounterActionFeedback.dir/build
+.PHONY : _lab3_generate_messages_check_deps_CounterActionFeedback/fast
+
+#=============================================================================
+# Target rules for targets named _lab3_generate_messages_check_deps_CounterGoal
+
+# Build rule for target.
+_lab3_generate_messages_check_deps_CounterGoal: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _lab3_generate_messages_check_deps_CounterGoal
+.PHONY : _lab3_generate_messages_check_deps_CounterGoal
+
+# fast build rule for target.
+_lab3_generate_messages_check_deps_CounterGoal/fast:
+	$(MAKE) -f lab3/CMakeFiles/_lab3_generate_messages_check_deps_CounterGoal.dir/build.make lab3/CMakeFiles/_lab3_generate_messages_check_deps_CounterGoal.dir/build
+.PHONY : _lab3_generate_messages_check_deps_CounterGoal/fast
+
+#=============================================================================
+# Target rules for targets named _lab3_generate_messages_check_deps_CounterFeedback
+
+# Build rule for target.
+_lab3_generate_messages_check_deps_CounterFeedback: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _lab3_generate_messages_check_deps_CounterFeedback
+.PHONY : _lab3_generate_messages_check_deps_CounterFeedback
+
+# fast build rule for target.
+_lab3_generate_messages_check_deps_CounterFeedback/fast:
+	$(MAKE) -f lab3/CMakeFiles/_lab3_generate_messages_check_deps_CounterFeedback.dir/build.make lab3/CMakeFiles/_lab3_generate_messages_check_deps_CounterFeedback.dir/build
+.PHONY : _lab3_generate_messages_check_deps_CounterFeedback/fast
+
+#=============================================================================
+# Target rules for targets named lab3_gencpp
+
+# Build rule for target.
+lab3_gencpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 lab3_gencpp
+.PHONY : lab3_gencpp
+
+# fast build rule for target.
+lab3_gencpp/fast:
+	$(MAKE) -f lab3/CMakeFiles/lab3_gencpp.dir/build.make lab3/CMakeFiles/lab3_gencpp.dir/build
+.PHONY : lab3_gencpp/fast
+
+#=============================================================================
+# Target rules for targets named lab3_generate_messages_eus
+
+# Build rule for target.
+lab3_generate_messages_eus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 lab3_generate_messages_eus
+.PHONY : lab3_generate_messages_eus
+
+# fast build rule for target.
+lab3_generate_messages_eus/fast:
+	$(MAKE) -f lab3/CMakeFiles/lab3_generate_messages_eus.dir/build.make lab3/CMakeFiles/lab3_generate_messages_eus.dir/build
+.PHONY : lab3_generate_messages_eus/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -544,6 +986,40 @@ help:
 	@echo "... lab2_gencpp"
 	@echo "... lab2_generate_messages_eus"
 	@echo "... lab2_geneus"
+	@echo "... lab3_gennodejs"
+	@echo "... lab3_generate_messages_nodejs"
+	@echo "... lab3_genlisp"
+	@echo "... actionlib_msgs_generate_messages_cpp"
+	@echo "... rosgraph_msgs_generate_messages_py"
+	@echo "... roscpp_generate_messages_lisp"
+	@echo "... actionlib_msgs_generate_messages_eus"
+	@echo "... rosgraph_msgs_generate_messages_lisp"
+	@echo "... actionlib_msgs_generate_messages_nodejs"
+	@echo "... _lab3_generate_messages_check_deps_AddTwoInts"
+	@echo "... lab3_generate_messages_lisp"
+	@echo "... rosgraph_msgs_generate_messages_eus"
+	@echo "... lab3_generate_messages_py"
+	@echo "... lab3_generate_messages_cpp"
+	@echo "... roscpp_generate_messages_nodejs"
+	@echo "... _lab3_generate_messages_check_deps_CounterAction"
+	@echo "... _lab3_generate_messages_check_deps_CounterResult"
+	@echo "... actionlib_msgs_generate_messages_lisp"
+	@echo "... roscpp_generate_messages_py"
+	@echo "... lab3_genpy"
+	@echo "... roscpp_generate_messages_cpp"
+	@echo "... lab3_geneus"
+	@echo "... rosgraph_msgs_generate_messages_nodejs"
+	@echo "... actionlib_msgs_generate_messages_py"
+	@echo "... lab3_generate_messages"
+	@echo "... roscpp_generate_messages_eus"
+	@echo "... _lab3_generate_messages_check_deps_CounterActionGoal"
+	@echo "... _lab3_generate_messages_check_deps_CounterActionResult"
+	@echo "... rosgraph_msgs_generate_messages_cpp"
+	@echo "... _lab3_generate_messages_check_deps_CounterActionFeedback"
+	@echo "... _lab3_generate_messages_check_deps_CounterGoal"
+	@echo "... _lab3_generate_messages_check_deps_CounterFeedback"
+	@echo "... lab3_gencpp"
+	@echo "... lab3_generate_messages_eus"
 .PHONY : help
 
 
