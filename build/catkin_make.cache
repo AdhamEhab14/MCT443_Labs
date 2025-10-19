@@ -1,0 +1,2 @@
+lab2
+-DCATKIN_DEVEL_PREFIX=/home/adham14/catkin_ws_labs/devel -DCMAKE_INSTALL_PREFIX=/home/adham14/catkin_ws_labs/install -G Unix Makefiles
